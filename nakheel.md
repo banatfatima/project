@@ -34,7 +34,7 @@ Instead of SQLite, we will use Microsoft SQL Server as our relational database m
 We will continue to use a *Relational Database* type for storing the scraped real estate listings in SQL Server. As mentioned earlier, a relational database is suitable for this project because it allows us to structure the data into well-defined tables with rows and columns and provides powerful querying capabilities.
 
 ----
-## V. Final Note
+## V. Conclusion
 
 By using Python for web scraping, Requests and BeautifulSoup for fetching and parsing web pages, and Microsoft SQL Server as the relational database, we can efficiently scrape and store real estate listings from Nakheel's website. This combination of tools and technologies ensures a robust and effective approach to web scraping and data storage.
 
