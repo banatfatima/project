@@ -31,5 +31,5 @@ Our decision to use Microsoft SQL Server, instead of SQLite, as the relational d
 ## IV. Database Type
 We will continue to use a *Relational Database* type for storing the scraped real estate listings in SQL Server. As mentioned earlier, a relational database is suitable for this project because it allows us to structure the data into well-defined tables with rows and columns and provides powerful querying capabilities.
 
-## V. Final Note
+## V. Conclusion
 By leveraging Python for web scraping, along with the Requests and BeautifulSoup libraries for fetching and parsing web pages, and Microsoft SQL Server as the chosen relational database, we can achieve efficient extraction and storage of real estate listings from Zillow's website. This comprehensive selection of tools and technologies guarantees a robust and effective approach to web scraping and data storage, facilitating seamless integration and enabling scalability for handling large volumes of data. With this well-rounded combination, we can successfully perform web scraping and store the extracted information for further analysis and utilization with optimal performance and reliability.
